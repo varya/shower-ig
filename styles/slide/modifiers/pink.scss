@@ -4,6 +4,7 @@
 
 &--pink {
 
+    color: $white;
     @include color-slide;
 
 	background-color:$pink;

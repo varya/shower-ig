@@ -2,12 +2,12 @@
 // Red
 // ------------------------------------------------------------------
 
-&--blue {
+&--violet {
 
    color: $white;
    @include color-slide;
 
-   background-color:$blue;
+   background-color:$violet;
 
     &:after {
         color: #FFF;

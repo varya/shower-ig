@@ -29,16 +29,14 @@
 
 @mixin color-slide {
 
-    color: #FFF;
-
     background-image: url(../images/logo/ig-white.png);
 
     h2 {
-      color: #FFF;
+      color: currentColor;
     }
 
     svg path {
-        fill: #FFF;
+        fill: currentColor;
     }
 
     figure,

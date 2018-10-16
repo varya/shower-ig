@@ -4,6 +4,7 @@
 
 &--black {
 
+   color: $white;
     @include color-slide;
 
 	background-color:#000;
