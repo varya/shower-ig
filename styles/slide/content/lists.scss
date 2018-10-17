@@ -41,7 +41,7 @@ ol, ul {
 // Markers
 
 ul > li::before {
-	content:'•';
+	content:'◆';
 	}
 ul > li:lang(ru)::before {
 	content:'—';
